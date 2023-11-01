@@ -10,3 +10,7 @@ build arguments
 build (only exe)
 bdist_msi(installer)
 
+commands
+python setup.py build
+python setup.py bdist_msi
+
